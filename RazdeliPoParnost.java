@@ -38,7 +38,7 @@ public static void main(String[] args) throws IOException {
 		if (lista.length()>0)
 		{
 			
-			while(first.succ!=null){ // za da odi do posledniot
+			while(first!=null){ // za da odi do posledniot
 			if (first.element%2==0)
 				
 			{
